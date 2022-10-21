@@ -140,3 +140,35 @@ body {
   /*                 fim do  Eu sou                                    */
 
   
+  .hab{
+    display: flex;
+    justify-content: center;
+  }
+  .container-hab{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .habilidades{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cor-icon-hab{
+    width: 50px;
+    color: #0048ce;
+    padding-left: 15px;
+
+  }
+  .texto-habilidades{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+  }
+
+
+.text-wrapper{
+  width: 100%;
+  height: 200px;
+  background-color: rgb(241, 7, 7);
+}
