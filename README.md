@@ -5,4 +5,6 @@ Html5
 
 Css3
 
+JavaScript 
+
 Responsive Web Design
